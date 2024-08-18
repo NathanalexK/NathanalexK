@@ -1,5 +1,3 @@
-
-
 <div class="body">
   <style>
 
@@ -29,7 +27,15 @@
     }
   
   </style>
-  <div class="header">
+  <div class="header" style="display: flex;
+  background: linear-gradient(180deg, #bfccdb, #4d6386);
+  border-bottom: solid 2px #485770;
+  border-top: solid 2px #eef3f9;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 0px -2px #2f3c4f;
+  box-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.419);">
     <h1 class="header-title">Nathanalex's Profile</h1>
   </div>
 
